@@ -1,0 +1,14 @@
+{
+    "persona": {
+      "nombre": "Hector Horacio Martinez Hernadez",
+      "edad": 27,
+      "profesion": "Desarrollador Web",
+      "descripcion": "Soy un estudiante en desarrollo web.",
+      "contacto": {
+        "email": "323030269@upjr.edu.mx",
+        "telefono": "7443384283"
+      },
+      "habilidades": ["HTML", "CSS", "JavaScript", "React", "Node.js"]
+    }
+  }
+  
