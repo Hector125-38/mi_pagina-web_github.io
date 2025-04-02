@@ -1,30 +1,29 @@
-# mi_pagina-web_github.io
-# BIENVENIDO ESPERO QUE TE GUSTE ESTA PAGINA 
+# Biografía de [Nombre de la Persona]
 
-## Introducción
-Esta es mi primer pagina web donde e relizado una pequeña investigacion de los Astronautas mexicanos que han destacado.
+![Foto de [Nombre]](URL_de_la_imagen)
 
-#
-## Imágenes
-![Astronauta](https://static.wixstatic.com/media/35d59b_6857c1bd613846dfa2026daf1058ec1e~mv2.jpg/v1/fill/w_568,h_378,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/35d59b_6857c1bd613846dfa2026daf1058ec1e~mv2.jpg)
+## Acerca de mí
+Soy [una breve descripción sobre la persona, por ejemplo, "un desarrollador de software con más de 10 años de experiencia en la industria."] 
 
+## Historial Laboral
 
-# Astronautas Mexicanos
+### [Puesto Actual] - [Nombre de la Empresa]
+*Fecha de inicio - Presente*
+- Descripción de las responsabilidades y logros.
 
-## Introducción
-México ha tenido una participación importante en la exploración espacial. A lo largo de la historia, algunos astronautas de origen mexicano han logrado destacar en misiones espaciales de la NASA.
+### [Puesto Anterior] - [Nombre de la Empresa]
+*Fecha de inicio - Fecha de finalización*
+- Descripción de las responsabilidades y logros.
 
-## Astronautas Destacados
+### [Puesto Anterior] - [Nombre de la Empresa]
+*Fecha de inicio - Fecha de finalización*
+- Descripción de las responsabilidades y logros.
 
-### Rodolfo Neri Vela
-- **Primer astronauta mexicano y latinoamericano en el espacio**.
-- Participó en la misión STS-61-B del transbordador espacial Atlantis en 1985.
-- Fue ingeniero en telecomunicaciones y colaboró en la instalación de satélites en órbita.
+## Educación
+- [Título] en [Campo de estudio] - [Nombre de la Institución] (Año de graduación)
 
-### José Hernández
-- Ingeniero y astronauta de la NASA con ascendencia mexicana.
-- Voló en la misión STS-128 a bordo del transbordador Discovery en 2009.
-- Trabajó en experimentos científicos y en la instalación de equipos en la Estación Espacial Internacional (EEI).
+## Contacto
+Puedes encontrar más información en mi [LinkedIn](URL_de_LinkedIn).
 
-- ![Astronauta](https://ap-cdn.sfo3.digitaloceanspaces.com/uploads/2023/09/astronautas-mexicanos-nasa.jpg)
-
+## Más Información
+Para ver más detalles sobre mi carrera, visita [esta página](URL_de_la_otra_página).
