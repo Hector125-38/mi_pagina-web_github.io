@@ -1,29 +1,23 @@
-# Biografía de [Nombre de la Persona]
+# ¡Hola! Soy Héctor Horacio Martínez Hernández 👋
 
-![Foto de [Nombre]](URL_de_la_imagen)
+💻 Estudiante de **Ingeniería en Redes y Telecomunicaciones** en la Universidad Politécnica de Juventino Rosas, Guanajuato.
+📡 Apasionado por las **redes, telecomunicaciones y la ciberseguridad**.
+🚀 Aprendiendo sobre **administración de sistemas, programación y tecnologías emergentes**.
 
-## Acerca de mí
-Soy [una breve descripción sobre la persona, por ejemplo, "un desarrollador de software con más de 10 años de experiencia en la industria."] 
+## 🚀 Tecnologías y Herramientas
 
-## Historial Laboral
+- 🔹 Redes: **Cisco**
+- 🔹 Programación: **Python,JavaScript**
+- 🔹 Seguridad: **Kali Linux**
+- 🔹 Infraestructura: **Linux,AWS**
 
-### [Puesto Actual] - [Nombre de la Empresa]
-*Fecha de inicio - Presente*
-- Descripción de las responsabilidades y logros.
+## 📫 Conéctate conmigo
 
-### [Puesto Anterior] - [Nombre de la Empresa]
-*Fecha de inicio - Fecha de finalización*
-- Descripción de las responsabilidades y logros.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tuusuario)  
+✉️ **Correo:** 323030269@upjr.edu.mx 
 
-### [Puesto Anterior] - [Nombre de la Empresa]
-*Fecha de inicio - Fecha de finalización*
-- Descripción de las responsabilidades y logros.
+## 📊 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 
-## Educación
-- [Título] en [Campo de estudio] - [Nombre de la Institución] (Año de graduación)
-
-## Contacto
-Puedes encontrar más información en mi [LinkedIn](URL_de_LinkedIn).
-
-## Más Información
-Para ver más detalles sobre mi carrera, visita [esta página](URL_de_la_otra_página).
+---
+¡Siempre aprendiendo y explorando nuevas tecnologías! 🚀
