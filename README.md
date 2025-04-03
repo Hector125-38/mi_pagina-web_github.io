@@ -15,7 +15,7 @@
 **Telefono** 7443384283
 ✉️ **Correo:** 323030269@upjr.edu.mx 
 
-[Proyecto Integrador](https://miportafolio.com)
+[Proyecto Integrador](https://hector125-38.github.io/Proyecto-Integradogithub.io/)
 
 ---
 ¡Siempre aprendiendo y explorando nuevas tecnologías! 🚀
