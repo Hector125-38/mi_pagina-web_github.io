@@ -1,5 +1,6 @@
 # ¡Hola! Soy Héctor Horacio Martínez Hernández 👋
-![Descripción de la imagen](![20221008_211036 (1)](https://github.com/user-attachments/assets/4a7077b6-9281-40f3-b624-f98d41ab8c4c)
+![Descripción de la imagen](![mi foto](https://github.com/user-attachments/assets/8d853989-0a72-4fc2-afe8-385018ce6bf9)
+)
 )
 💻 Estudiante de **Ingeniería en Redes y Telecomunicaciones** en la Universidad Politécnica de Juventino Rosas, Guanajuato.
 📡 Apasionado por las **redes, telecomunicaciones y la ciberseguridad**.
